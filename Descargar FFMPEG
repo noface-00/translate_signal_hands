@@ -1,0 +1,1 @@
+Importante tener instalado el FFMPEG en su PATH al momento de ejecurar, copiando la direccion bin y agragando al PATH, se puede verificar en la terminal mediante ffmprg-version
